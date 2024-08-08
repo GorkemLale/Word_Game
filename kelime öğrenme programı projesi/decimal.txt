@@ -1,0 +1,10 @@
+computing=bilgi işlem
+association=dernek
+maximize=en üst düzeye çıkarmak
+to invent=icat etmek
+exactly=tam olarak,kesinlikle
+mecihanery=makine
+elaborate=özenli
+ever since=o zamandan beri
+since=o zamandan beri
+provide=sağlamak
